@@ -12,7 +12,7 @@ Hey there! Check out my Food Delivery App, built with SwiftUI to give you a fant
 
 Here’s a peek at what the app looks like:
 
-<img src="https://github.com/user-attachments/assets/7713ffc8-235b-46cc-a596-f01c6cb89645" width="300" alt="Simulator Screenshot - 1"/>
+<img src="https://github.com/user-attachments/assets/e05259fb-a532-4593-989e-5238e50eacbb" width="300" alt="Simulator Screenshot - 1"/>
 <img src="https://github.com/user-attachments/assets/91181952-c7aa-4b47-8403-a4be522d8a2d" width="300" alt="Simulator Screenshot - 2"/>
 <img src="https://github.com/user-attachments/assets/96b94524-e362-4086-917a-b95b8dc3d256" width="300" alt="Simulator Screenshot - 3"/>
 <img src="https://github.com/user-attachments/assets/11d8d0ae-0459-4b4a-acd7-b507aa5a39f9" width="300" alt="Simulator Screenshot - 4"/>
