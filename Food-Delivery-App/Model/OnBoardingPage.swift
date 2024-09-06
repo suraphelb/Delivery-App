@@ -1,4 +1,4 @@
-//
+// Here I found some error that I fix earlier. Just so you know.
 //  OnBoardingPage.swift
 //  Food-Delivery-App
 //

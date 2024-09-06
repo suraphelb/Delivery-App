@@ -1,4 +1,4 @@
-//
+// This code is really well written and easy to execute. Great Job Suraphel!
 //  Card.swift
 //  Food-Delivery-App
 //
